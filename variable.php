@@ -1,6 +1,4 @@
 <?php
-
-
     $fname = 2;
     $a1111 = 4;
     $_test01 = 3.33;
@@ -16,7 +14,4 @@
     echo $Age + $age."<br>";
     echo $Age." + ".$age." = ".($Age + $age);
     print "<br>".$_test01;
-    
-
-
 ?>
